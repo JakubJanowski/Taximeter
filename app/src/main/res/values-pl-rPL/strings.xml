@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tokometr</string>
+    <string name="basePrice">1 zł</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="for_every">za każdą</string>
+    <string name="priceSeparator">,</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="resume">Wznów</string>
+    <string name="zeroZlotys">0,00 zł</string>
+    <string name="settingsInfo">Zmiany zostaną zastosowane po zresetowaniu stopera.</string>
+    <string name="price">Cena</string>
+
+    <!-- Strings related to Settings -->
+    <string-array name="interval">
+        <item>sekundę</item>
+        <item>minutę</item>
+        <item>godzinę</item>
+    </string-array>
+</resources>

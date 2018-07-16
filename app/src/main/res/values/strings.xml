@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lathemeter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="basePrice">1 zł</string>
+    <string name="for_every">for every</string>
+    <string name="priceSeparator">.</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="zeroZlotys">0.00 zł</string>
+    <string name="resume">Resume</string>
+    <string name="settingsInfo">Changes will be applied after timer is reset.</string>
+    <string name="price">Price</string>
+
+    <!-- Strings related to Settings -->
+    <string-array name="interval">
+        <item>second</item>
+        <item>minute</item>
+        <item>hour</item>
+    </string-array>
+</resources>
